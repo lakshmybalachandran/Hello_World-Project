@@ -1,0 +1,10 @@
+Installation of the Flask RESTful in Python 3.7 IDLE:
+
+->Install Flask-RESTful with pip
+           Command used:   pip install flask-restful
+->The development version can be downloaded from its page at GitHub.
+          https://github.com/flask-restful/flask-restful
+          git clone https://github.com/flask-restful/flask-restful.git
+          cd flask-restful
+          python setup.py develop
+         Please note: Flask-RESTful requires Python version 2.7, 3.4, 3.5, 3.6 or 3.7
